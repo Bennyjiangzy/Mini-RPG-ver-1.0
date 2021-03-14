@@ -1,0 +1,4 @@
+wolf:3
+wolf:2
+wolf:2
+giant:2

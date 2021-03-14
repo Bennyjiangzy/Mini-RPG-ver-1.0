@@ -1,0 +1,8 @@
+wolf:5
+wolf:5
+wolf:5
+wolf:5
+wolf:5
+giant:5
+giant:5
+magician:1
